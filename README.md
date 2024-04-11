@@ -5,6 +5,6 @@ I only use them as temporary templates.
 # HOW TO PLAY/ COMO JUGAR?
 
 English: 
-Download the Rar archive call "CUKIGAME" and Extract in Folder.
+Download the ZIP archive call "CUKIGAME" and Extract in Folder.
 Spanish:
-Descarga el archivo rar llamado "CUCKIGAME" y Extraelo en una Carpeta.
+Descarga el archivo ZIP llamado "CUCKIGAME" y Extraelo en una Carpeta.
