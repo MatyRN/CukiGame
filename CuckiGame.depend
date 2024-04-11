@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712811003 source:c:\users\matias reimondez\documents\programacion\cukigame\src\main.cpp
+	"raylib.h"
+
+1712856535 source:c:\users\matias reimondez\documents\programacion\cukigame\main.cpp
+	"raylib.h"
+
